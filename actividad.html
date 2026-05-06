@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Galería VSCO</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+
+  .titulo {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 20px 0;
+    color: #222;
+  }
+
+  .galeria {
+    display: flex;
+    flex-wrap: wrap; /* Permite que las imágenes se ajusten en varias filas */
+    justify-content: center; /* Centra las imágenes horizontalmente */
+    gap: 15px; /* Espaciado entre las imágenes */
+    padding: 20px;
+    width: 100%; /* Ocupa el 100% del ancho */
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+  }
+
+  .galeria img {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    object-fit: cover; /* Ajusta las imágenes al tamaño del contenedor */
+  }
+
+  .galeria img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Tamaños variados para las imágenes */
+  .galeria img:nth-child(1) {
+    width: 350px;
+    height: 400px;
+  }
+
+  .galeria img:nth-child(2) {
+    width: 300px;
+    height: 300px;
+  }
+
+  .galeria img:nth-child(3) {
+    width: 400px;
+    height: 350px;
+  }
+
+  .galeria img:nth-child(4) {
+    width: 300px;
+    height: 400px;
+  }
+
+  .galeria img:nth-child(5) {
+    width: 350px;
+    height: 300px;
+  }
+
+  .galeria img:nth-child(6) {
+    width: 300px;
+    height: 350px;
+  }
+
+  .galeria img:nth-child(7) {
+    width: 400px;
+    height: 300px;
+  }
+
+  .galeria img:nth-child(8) {
+    width: 300px;
+    height: 300px;
+  }
+
+  .galeria img:nth-child(9) {
+    width: 350px;
+    height: 350px;
+  }
+</style>
+</head>
+<body>
+
+<h1 class="titulo">GALERÍA</h1>
+
+<div class="galeria">
+  <img src="40182549-close-up-retrato-de-una-hermosa-mujer-morena-al-aire-libre.jpg" alt="Retrato de una mujer morena al aire libre">
+  <img src="retrato-fondo-profundidad-campo-734x489.jpg" alt="Retrato con fondo de profundidad de campo">
+  <img src="images (1).jpeg" alt="Imagen de retrato">
+  <img src="images (2).jpeg" alt="Retrato de una mujer joven">
+  <img src="images.jpeg" alt="Retrato de una mujer con fondo claro">
+  <img src="ea2fc6688da659f7e2428ad1ade74af6.jpg" alt="Retrato artístico de una mujer">
+  <img src="52ab2716a35c9c0b7dcc7031fc771d64.jpg" alt="Retrato de una mujer con fondo oscuro">
+  <img src="70447773-retrato-de-la-mujer-joven-y-bella-de-la-mujer-morena.jpg" alt="Retrato de una mujer joven y bella">
+  <img src="images (3).jpeg" alt="Retrato de una mujer sonriente">
+</div>
+
+</body>
+</html>
