@@ -1,0 +1,1817 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ] /Count 10 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3796 >>
+stream
+BT
+/F2 16.0 Tf
+38 806.0 Td
+(Estudio completo de laboratorio - Biología) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Microscopía estructura y diversidad celular composición química de la célula) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Diseñado para estudiar por recuperación activa: palabra clave -> concepto -> procedimiento ->) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(resultado -> explicación.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Objetivo: poder responder preguntas puntuales, interpretar resultados de laboratorio y) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(resolver cálculos, no solo reconocer términos.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(Cómo usar este documento) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Primera vuelta \(rápida\): lee las palabras clave y las tablas.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Segunda vuelta \(activa\): cierra el documento y escribe de memoria lo que recuerdas.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Tercera vuelta \(tipo parcial\): responde el simulacro sin mirar las respuestas.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Regla: si no puedes explicar por qué ocurre, todavía no dominas el punto.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: suelen ser muy preguntables las definiciones exactas, función de) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(cada parte, qué reactivo identifica qué biomolécula, color positivo, control +/-,) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(aumento total, campo visual, resolución y diferencias entre célula animal/vegetal.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(1. MICROSCOPÍA: conceptos que debes dominar) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.1 Microscopio de luz: idea central) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(El microscopio no "crea" detalles; amplía una imagen y, si tiene suficiente resolución,) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(permite separar detalles que el ojo no distingue.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Aumento: cuántas veces se ve más grande la imagen respecto al objeto real.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Resolución: capacidad de distinguir dos puntos muy cercanos como separados.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Contraste: diferencia de intensidad/color entre la muestra y el fondo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Campo visual: área circular que se ve por el ocular.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Profundidad de campo: espesor de la muestra que aparece enfocado al mismo tiempo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Distancia de trabajo: distancia entre el objetivo y la muestra cuando está enfocada.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: más aumento NO significa automáticamente más detalle. El detalle) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(depende de la resolución.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.2 Partes del microscopio y función) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Parte | Función / palabra clave) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Oculares | Lentes por donde se observa; suelen ser 10X.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Objetivos 4X, 10X, 40X, 100X | Proporcionan el aumento principal. 100X suele usarse con) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(aceite de inmersión.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Revólver | Sostiene los objetivos y permite cambiarlos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Platina | Sostiene el portaobjetos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Carro / pinzas | Mueven y fijan la preparación sobre la platina.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Tornillo macrométrico | Enfoque grueso: movimientos amplios; usar principalmente con bajo) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3086 >>
+stream
+BT
+/F1 7.5 Tf
+38 806.0 Td
+(aumento.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Tornillo micrométrico | Enfoque fino: movimientos pequeños; clave en 40X y 100X.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Condensador | Concentra la luz sobre la muestra.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Diafragma iris | Regula la cantidad/apertura de luz que llega a la muestra.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Iluminador | Fuente de luz.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Anillo de dioptrías | Compensa diferencias de enfoque entre ambos ojos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Brazo y base | Soporte y manipulación segura del microscopio.) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.3 Poder de aumento) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Fórmula: Aumento total = aumento del ocular x aumento del objetivo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Ocular | Objetivo | Aumento total) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(10X | 4X | 40X) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(10X | 10X | 100X) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(10X | 40X | 400X) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(10X | 100X | 1000X) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: "X" significa veces. 400X = la imagen se observa 400 veces mayor que) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(el tamaño aparente del objeto.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.4 Campo visual: diámetro, área y tamaño de objetos) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Diámetro del campo \(d\) = Número de campo del ocular / aumento del objetivo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(En la guía aparece número de campo 18.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Objetivo | d con FN=18 | Área A=pid^2/4) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(4X | 18/4 = 4,5 mm | ~ 15,90 mm^2) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(10X | 1,8 mm | ~ 2,54 mm^2) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(40X | 0,45 mm | ~ 0,159 mm^2) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(100X | 0,18 mm | ~ 0,0254 mm^2) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Estimación de tamaño: tamaño aproximado de cada célula/objeto = diámetro del campo / número de) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(objetos que caben a lo ancho.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: al aumentar el objetivo, el diámetro y el área del campo visual) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(DISMINUYEN.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.5 Unidades de microscopía) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Equivalencia | Resultado) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(1 mm | 1000 um) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(1 um | 0,001 mm) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(1 um | 1000 nm) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(1 nm | 0,001 um = 10 mm) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Ejemplos:) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- 20 mm = 20.000 um) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- 0,1 mm = 100 um) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- 54.000 nm = 54 um = 0,054 mm) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3209 >>
+stream
+BT
+/F1 7.0 Tf
+38 806.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.6 Poder de resolución) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Definición exacta: capacidad del instrumento para diferenciar dos puntos que, a simple vista,) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(parecerían uno solo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Valores de referencia de la guía:) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Ojo humano ~ 72 um) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Microscopio óptico ~ 0,2 um) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Microscopio electrónico ~ 0,001 um) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Fórmula de la guía: R = lambda / \(2·AN\)) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- R menor = mejor resolución.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Longitud de onda menor = mejor resolución.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Apertura numérica mayor = mejor resolución.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Ejemplo: con lambda~640 nm y objetivo 40X de AN=0,65:) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(R = 640/\(2x0,65\) = 492,3 nm ~ 0,492 um.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: aumento = tamaño aparente; resolución = capacidad de separar) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(detalles.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.7 Luz, refracción, apertura numérica y aceite) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Refracción: cambio de dirección de la luz al pasar entre medios con distinto índice de) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(refracción.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Índice de refracción: indica cuánto cambia la velocidad/dirección de la luz en un medio.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Apertura numérica \(AN\): capacidad del objetivo para captar luz.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Aceite de inmersión: reduce la pérdida de luz por refracción entre lámina y objetivo 100X;) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(aumenta la AN y mejora la resolución.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: el aceite de inmersión se usa con el objetivo 100X, NO con 4X, 10X) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(ni 40X.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.8 Qué cambia al aumentar el objetivo) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Variable | Cuando aumenta el objetivo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Aumento total | Aumenta) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Campo visual | Disminuye) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Área observada | Disminuye) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Distancia de trabajo | Disminuye) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Profundidad de campo | Disminuye) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Detalle visible | Aumenta si la resolución lo permite) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Luz necesaria | Suele requerir mejor iluminación/apertura) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.9 Uso correcto del microscopio) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(1. Coloca y centra la preparación en la platina.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(2. Empieza SIEMPRE con el objetivo de menor aumento \(4X\).) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3709 >>
+stream
+BT
+/F1 8.4 Tf
+38 806.0 Td
+(3. Ajusta iluminación y diafragma.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(4. Con bajo aumento utiliza el macrométrico y luego el micrométrico.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(5. Antes de pasar a 10X/40X, centra la zona de interés.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(6. Al subir de aumento, usa principalmente el micrométrico.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(7. Para 100X, aplica aceite de inmersión y evita que otros objetivos toquen el aceite.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(8. Al terminar, baja la platina, deja el objetivo de menor aumento y limpia las lentes.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: la muestra se mueve en sentido opuesto a la imagen. Si desplazas el) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(portaobjetos a la derecha, la imagen parece moverse a la izquierda.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(1.10 Preparación en fresco) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(1. Lava y seca el portaobjetos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(2. Coloca una gota de agua o solución adecuada y la muestra.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(3. Apoya el cubreobjetos en un ángulo aproximado de 45° y déjalo caer lentamente.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(4. Evita burbujas; retira exceso de líquido con papel absorbente.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(5. No siempre se usa agua: algunas muestras requieren colorantes o soluciones específicas.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Por qué 45°: reduce el atrapamiento de aire debajo del cubreobjetos.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(2. ESTRUCTURA Y DIVERSIDAD CELULAR) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Marco central: el tamaño celular está limitado por la relación superficie/volumen. Al crecer) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(una célula, el volumen aumenta más rápido que la superficie, dificultando el intercambio de) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(sustancias.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(2.1 Célula animal vs vegetal) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Característica | Célula animal | Célula vegetal) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Membrana plasmática | Sí | Sí) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Pared celular | No | Sí, principalmente celulosa) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Núcleo | Sí, en células nucleadas | Sí) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Vacuolas | Pequeñas/variables | Gran vacuola central típica) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Cloroplastos | No | Sí en tejidos fotosintéticos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Forma | Más variable/irregular | Más definida por la pared) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Centriolos | Comunes | Generalmente ausentes en plantas superiores) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Reserva típica | Glucógeno/lípidos | Almidón) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(2.2 Células animales observadas en laboratorio) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(Mucosa bucal) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Preparación: raspado suave de mejilla + solución salina 0,9%.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Observar primero sin tinción y luego con azul de metileno 0,5%.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Sin colorante: células transparentes, poco contraste.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Con azul de metileno: el núcleo se distingue con mayor claridad.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Estructuras esperadas: membrana plasmática, citoplasma, núcleo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- No presentan pared celular ni cloroplastos.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3665 >>
+stream
+BT
+/F2 10.0 Tf
+38 806.0 Td
+(CLAVE: CLAVE: colorante != estructura nueva. El azul de metileno hace más visible) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(lo que ya estaba presente.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(Frotis sanguíneo y Wright) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Gota de sangre -> extensión con otro portaobjetos a ~45° -> secar -> Wright -> lavar ->) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(observar.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Eritrocitos: muy numerosos, discos bicóncavos, sin núcleo en humanos; transportan O mediante) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(hemoglobina.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Leucocitos: menos numerosos, nucleados; defensa inmunológica.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Plaquetas: fragmentos celulares pequeños; coagulación/hemostasia.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Wright: tinción diferencial que aumenta contraste.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(2.3 Células vegetales) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Muestra | Qué buscar | Palabra clave) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Epidermis de cebolla | Pared celular, citoplasma, núcleo, gran vacuola; células) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(rectangulares | Pared + vacuola) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Elodea | Pared celular y numerosos cloroplastos | Cloroplastos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Papa | Amiloplastos/gránulos de almidón; Lugol los vuelve azul oscuro/negro | Almidón) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: la cebolla de bulbo normalmente NO muestra cloroplastos en su) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(epidermis porque es tejido subterráneo no fotosintético.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(2.4 Microorganismos de agua / protistas) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Muestra fresca: gota de agua de charca/estanque bajo cubreobjetos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Describir: forma, tamaño relativo, color, estructuras visibles y tipo de movimiento.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- El movimiento puede deberse a cilios, flagelos, pseudópodos o corrientes de agua.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Empezar con 4X/10X para localizar y luego aumentar.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(2.5 Comparaciones que sí pueden preguntar) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Pregunta | Respuesta corta) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(¿Por qué teñir una célula? | Para aumentar contraste y visualizar estructuras.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(¿Por qué células vegetales mantienen forma más regular? | Por pared celular rígida y) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(turgencia.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(¿Por qué el núcleo se ve mejor tras teñir? | El colorante aumenta el contraste.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(¿Por qué 40X muestra menos células que 10X? | Porque el campo visual disminuye al aumentar) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(el objetivo.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(¿Por qué centrar antes de aumentar? | Porque el campo visual será menor.) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(3. COMPOSICIÓN QUÍMICA DE LA CÉLULA Y PRUEBAS DE BIOMOLÉCULAS) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Cuatro grupos del laboratorio: carbohidratos, proteínas, lípidos y sales minerales.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Las pruebas son cualitativas: indican presencia/ausencia y la intensidad de color solo permite) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 3592 >>
+stream
+BT
+/F1 8.4 Tf
+38 806.0 Td
+(estimaciones aproximadas.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.1 Carbohidratos) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Monosacáridos: una unidad. Ej.: glucosa, fructosa.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Disacáridos: dos monosacáridos. Ej.: sacarosa, lactosa, maltosa.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Polisacáridos: muchas unidades. Ej.: almidón, glucógeno, celulosa.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Azúcar reductor: puede reducir otra sustancia porque dispone de un grupo carbonilo libre o) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(puede generarlo en solución.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Glucosa, fructosa, lactosa y maltosa son reductores; sacarosa intacta no.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.2 Pruebas principales) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Prueba | Detecta | Reactivo / condición | Positivo | Fundamento) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Benedict | Azúcares reductores | Benedict + calor | Verde/amarillo/naranja/rojo ladrillo |) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Cu^2 -> Cu; forma CuO) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Lugol | Almidón | Lugol | Azul oscuro/negro | Yodo se asocia con amilosa) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Biuret | Proteínas/enlaces peptídicos | CuSO + NaOH | Violeta/púrpura | Complejo con enlaces) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(peptídicos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Xantoproteica | Aminoácidos aromáticos | HNO concentrado + calor | Amarillo/naranja |) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Nitración de anillos aromáticos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Sudán III | Lípidos | Sudán III | Fase grasa rojiza/anaranjada | Colorante liposoluble) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(AgNO | Cloruros | Nitrato de plata | Precipitado blanco | Ag + Cl -> AgCl\(s\)) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.3 Controles positivos y negativos) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Prueba | Control negativo | Control positivo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Benedict | Agua | Glucosa) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Lugol | Agua | Almidón) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Biuret | Agua | Albúmina de huevo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Xantoproteica | Agua | Albúmina de huevo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Sudán III | Agua | Aceite/grasa) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(AgNO | Agua | NaCl) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: CLAVE: control negativo = muestra cómo se ve sin analito. Control positivo) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(= confirma que el reactivo/procedimiento sí puede producir la reacción esperada.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.4 Benedict: razonamiento) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Reactivo inicialmente azul: contiene Cu^2.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Requiere calentamiento: acelera la reacción redox.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Positivo: verde/amarillo/naranja/rojo ladrillo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Error común: decir que todo carbohidrato da Benedict positivo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.5 Lugol y almidón) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Almidón = polisacárido vegetal de reserva formado por amilosa y amilopectina.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Lugol positivo = azul oscuro a negro.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Papa = muestra clásica positiva por sus gránulos de almidón/amiloplastos.) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 3707 >>
+stream
+BT
+/F1 8.4 Tf
+38 806.0 Td
+(- El calor puede alterar temporalmente el complejo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.6 Proteínas: Biuret y xantoproteica) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Biuret: responde a enlaces peptídicos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Xantoproteica: responde a anillos aromáticos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Albúmina de huevo: control positivo clásico para ambas.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: Diferencia clave: Biuret = enlace peptídico; xantoproteica = anillo) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(aromático.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.7 Lípidos y sales) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- Los lípidos son mayormente apolares, insolubles en agua y solubles en solventes orgánicos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Sudán III se concentra en la fase grasa.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Las sales minerales son iones inorgánicos indispensables.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Cloruros + AgNO -> AgCl insoluble blanco.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 12.0 Tf
+0 -13.0 Td
+(3.8 Muestras problema: resultados teóricos probables) Tj
+/F1 7.0 Tf
+0 -18.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Muestra | Benedict | Lugol | Biuret / Xanto | Sudán III | AgNO) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Pan | Variable/leve | + | + moderado | Variable | Puede +) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Fruta | + | - o variable | Bajo/- | Generalmente - | Variable) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Leche entera | + | - | + | + | +) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Clara de huevo | - | - | +++ | Muy bajo/- | Puede +) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Yogur | + o leve | - | + | + si es entero | +) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Margarina | - | - | - | +++ | Variable) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Extracto de papa | Bajo/variable | +++ | Bajo | Bajo | Variable) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Gelatina sin sabor | - | - | +++ | - | Variable) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: Estos son resultados teóricos probables; el resultado real depende de) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(marca, concentración y preparación.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(4. PALABRAS CLAVE MUY PUNTUALES) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Palabra | Qué debes decir en 1 frase) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Aumento | Multiplicación del tamaño aparente de la imagen.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Resolución | Capacidad de separar dos puntos próximos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Campo visual | Área circular visible por el ocular.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(AN | Capacidad del objetivo para captar luz y resolver detalle.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Inmersión | Aceite que reduce refracción y mejora resolución en 100X.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Macrométrico | Enfoque grueso.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Micrométrico | Enfoque fino.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Condensador | Concentra luz.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Diafragma | Regula apertura/cantidad de luz.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Contraste | Diferencia visible entre muestra y fondo.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Tinción | Aumenta contraste/visibilidad de estructuras.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Pared celular | Cubierta rígida vegetal externa a membrana.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Cloroplasto | Organelo fotosintético vegetal.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Vacuola central | Almacenamiento y turgencia en célula vegetal.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Amiloplasto | Organelo de almacenamiento de almidón.) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 4555 >>
+stream
+BT
+/F1 7.5 Tf
+38 806.0 Td
+(Eritrocito | Transporta O; sin núcleo en mamíferos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Leucocito | Defensa; célula nucleada.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Benedict | Azúcar reductor.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Lugol | Almidón.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Biuret | Enlaces peptídicos/proteínas.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Xantoproteica | Aminoácidos aromáticos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Sudán III | Lípidos.) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(AgNO | Cloruros -> precipitado blanco.) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(5. MNEMOTECNIAS) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(- A-R-C: Aumento sube -> campo Reduce -> más detalle si la Resolución alcanza.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Ma = macro = mayor movimiento: macrométrico mueve mucho; micrométrico mueve mínimo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Be = azúcar que reduce: Benedict -> reductores.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Lu = almidón oscuro: Lugol -> almidón azul-negro.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- BI = bonds / enlaces: Biuret -> enlaces peptídicos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- XANTO = aromático amarillo: xantoproteica -> anillos aromáticos -> amarillo/naranja.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- SU-DAN grasa: Sudán se mete en la grasa.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(- Ag + Cl = nube blanca: AgNO + cloruro -> AgCl blanco.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(6. PREGUNTAS TIPO PROFESORA) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(1. Complete: el aumento total del microscopio se obtiene multiplicando ______ por ______.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(2. Un estudiante usa ocular 10X y objetivo 40X. ¿Cuál es el aumento total?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(3. Explique por qué observar a 1000X no garantiza ver más detalle si la resolución no mejora.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(4. Si el número de campo es 18 y usa objetivo 10X, calcule el diámetro del campo visual.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(5. ¿Qué ocurre con el campo visual al cambiar de 10X a 40X? Justifique.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(6. Una preparación se mueve hacia la derecha. ¿Hacia dónde parece moverse la imagen?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(7. ¿Por qué se recomienda comenzar con 4X?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(8. ¿Qué función cumplen condensador y diafragma?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(9. ¿Por qué el aceite de inmersión mejora la imagen con 100X?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(10. Convierta 0,05 mm a um y 54.000 nm a um.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(11. Defina poder de resolución y explique qué significa que R sea menor.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(12. Una célula ocupa 1/6 del diámetro de un campo de 1,8 mm. Estime su tamaño.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(13. Compare mucosa bucal y epidermis de cebolla con tres diferencias observables.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(14. ¿Por qué el azul de metileno facilita ver el núcleo?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(15. ¿Cómo distinguiría eritrocitos y leucocitos?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(16. "Si una célula vegetal no tiene cloroplastos, entonces no es vegetal". Evalúe.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(17. ¿Por qué la papa se usa para observar almidón y qué reactivo lo evidencia?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(18. ¿Qué identifica Benedict y por qué debe calentarse?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(19. ¿Qué diferencia conceptual existe entre Biuret y xantoproteica?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(20. Un tubo con Lugol queda amarillo-marrón. ¿Qué conclusión preliminar se hace?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(21. Un alimento da Benedict +, Lugol - y Biuret -. Proponga un alimento compatible.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(22. ¿Por qué la margarina debería dar reacción marcada con Sudán III?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(23. ¿Qué precipitado se forma al mezclar cloruro con AgNO?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(24. Explique la función de control positivo y negativo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(25. Leche entera produce Benedict +, Biuret + y Sudán III +. Explique.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(26. Papa da Lugol fuertemente + pero Benedict débil. ¿Es contradictorio?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(27. ¿Por qué colocar el cubreobjetos a ~45° reduce errores?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(28. ¿Qué error puede producir usar macrométrico con 40X o 100X?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(29. ¿Por qué debe centrarse la muestra antes de aumentar?) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(30. Complete: agua -> control ______; glucosa -> control ______ en Benedict.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 3695 >>
+stream
+BT
+/F1 8.4 Tf
+38 806.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(7. EJERCICIOS DE CÁLCULO) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Tema | Problema | Resultado) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Aumento | Ocular 10X y objetivo 100X | 1000X) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Campo visual | FN=18 con objetivo 4X | d=18/4=4,5 mm) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Área | d=1,8 mm | A=pi\(1,8^2\)/4~2,54 mm^2) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Tamaño celular | d=0,45 mm y caben 9 células | 0,05 mm = 50 um) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Conversión | 0,006 mm | 6 um) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Conversión | 130 um | 0,13 mm = 130.000 nm) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Resolución | lambda=640 nm; AN=0,65 | R~492,3 nm ~0,492 um) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(8. RESPUESTAS DEL SIMULACRO) Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(1. Ocular x objetivo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(2. 400X.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(3. Porque magnificar sin resolver detalles solo agranda el desenfoque.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(4. 1,8 mm.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(5. Disminuye.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(6. A la izquierda.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(7. Da mayor campo visual y distancia de trabajo.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(8. Condensador concentra luz; diafragma regula apertura/cantidad de luz.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(9. Reduce refracción, eleva AN y mejora resolución.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(10. 50 um; 54 um.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(11. Capacidad de separar puntos próximos; menor R = mejor resolución.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(12. 1,8/6=0,3 mm=300 um.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(13. Animal: sin pared, forma más irregular, sin gran vacuola/cloroplastos. Cebolla: pared,) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(rectangular, gran vacuola.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(14. Aumenta contraste.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(15. Eritrocitos numerosos, pequeños y sin núcleo; leucocitos menos frecuentes, grandes y) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(nucleados.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(16. Falsa: tejidos vegetales no fotosintéticos pueden carecer de cloroplastos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(17. La papa almacena almidón en amiloplastos; Lugol da azul oscuro/negro.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(18. Azúcares reductores; el calor acelera la reducción de Cu^2 a Cu.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(19. Biuret detecta enlaces peptídicos; xantoproteica detecta anillos aromáticos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(20. Negativo para almidón o cantidad no detectable.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(21. Fruta/jugo rico en glucosa/fructosa y bajo en proteína/almidón.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(22. Porque la margarina es rica en lípidos.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(23. AgCl blanco; indica cloruros.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(24. Positivo valida la prueba; negativo muestra apariencia sin analito.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(25. Lactosa -> Benedict; proteínas -> Biuret; grasa -> Sudán III.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(26. No; almidón es polisacárido no reductor.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(27. Evita atrapar burbujas.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(28. Puede golpear la lámina/objetivo y dañar la muestra.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(29. Porque al subir aumento disminuye el campo visual.) Tj
+/F1 8.4 Tf
+0 -12.4 Td
+(30. Negativo; positivo.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F2 16.0 Tf
+0 -13.0 Td
+(9. HOJA FINAL: "ESTO SÍ O SÍ") Tj
+/F1 7.0 Tf
+0 -22.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 7.5 Tf
+0 -13.0 Td
+(Si lees una palabra | Piensa inmediatamente) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Aumento | ocular x objetivo) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 1550 >>
+stream
+BT
+/F1 7.5 Tf
+38 806.0 Td
+(Campo visual | más aumento -> menos campo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Resolución | separar 2 puntos; R menor = mejor) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(100X | aceite de inmersión + micrométrico) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Mover lámina derecha | imagen izquierda) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Azul de metileno | contraste / núcleo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Wright | frotis sanguíneo) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Cebolla | pared + vacuola; no necesariamente cloroplastos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Elodea | cloroplastos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Papa | almidón / amiloplastos) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Benedict | azúcares reductores + calor) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Lugol | almidón azul-negro) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Biuret | proteínas / enlace peptídico violeta) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Xantoproteica | aromáticos amarillo-naranja) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Sudán III | lípidos rojo-anaranjado) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(AgNO | Cl -> AgCl blanco) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Control + | debe reaccionar) Tj
+/F1 7.5 Tf
+0 -11.5 Td
+(Control - | no debe reaccionar) Tj
+/F1 7.0 Tf
+0 -11.5 Td
+() Tj
+/F1 7.0 Tf
+0 -13.0 Td
+() Tj
+/F2 10.0 Tf
+0 -13.0 Td
+(CLAVE: Antes del parcial: toma una hoja y escribe de memoria estas 18) Tj
+/F2 10.0 Tf
+0 -16.0 Td
+(asociaciones. Si fallas una, vuelve solo a esa sección.) Tj
+/F1 7.0 Tf
+0 -16.0 Td
+() Tj
+/F1 7.0 Tf
+0 -12.0 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(---) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+/F1 8.4 Tf
+0 -13.0 Td
+(Versión GitHub del PDF de estudio generado en ChatGPT.) Tj
+/F1 7.0 Tf
+0 -12.4 Td
+() Tj
+ET
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000185 00000 n 
+0000000282 00000 n 
+0000000384 00000 n 
+0000000520 00000 n 
+0000004367 00000 n 
+0000004503 00000 n 
+0000007640 00000 n 
+0000007777 00000 n 
+0000011038 00000 n 
+0000011176 00000 n 
+0000014937 00000 n 
+0000015075 00000 n 
+0000018792 00000 n 
+0000018930 00000 n 
+0000022574 00000 n 
+0000022712 00000 n 
+0000026471 00000 n 
+0000026609 00000 n 
+0000031216 00000 n 
+0000031354 00000 n 
+0000035101 00000 n 
+0000035239 00000 n 
+trailer
+<< /Size 25 /Root 1 0 R >>
+startxref
+36841
+%%EOF
