@@ -1,0 +1,38 @@
+name: Publicar investigacion DES y EAE
+on:
+  push:
+    branches: [pdf-ultrasonido-investigacion-2026]
+    paths: [documentos/build_extraccion_verde.zlib.b64]
+permissions:
+  contents: write
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar dependencias
+        run: python -m pip install reportlab pymupdf
+      - name: Generar el mismo informe
+        run: |
+          python - <<'PY'
+          import base64, zlib, pathlib, subprocess, sys, fitz
+          s=zlib.decompress(base64.b64decode(pathlib.Path('documentos/build_extraccion_verde.zlib.b64').read_text())).decode('utf-8')
+          s=s.replace("DST='/mnt/data/estudios_verdes'","DST='documentos'")
+          pathlib.Path('/tmp/build_extraccion_verde.py').write_text(s,encoding='utf-8')
+          pathlib.Path('documentos').mkdir(exist_ok=True)
+          subprocess.run([sys.executable,'/tmp/build_extraccion_verde.py'],check=True)
+          merged=fitz.open()
+          for path in ['documentos/Investigacion_Solventes_Eutecticos_DES_NADES.pdf','documentos/Investigacion_Extraccion_Enzimatica_EAE.pdf']:
+              with fitz.open(path) as src:
+                  merged.insert_pdf(src)
+          merged.set_metadata({'title':'Investigacion completa: DES/NADES y extraccion enzimatica'})
+          merged.save('documentos/Investigacion_Completa_DES_y_EAE.pdf',garbage=4,deflate=True)
+          merged.close()
+          PY
+      - name: Publicar PDF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add documentos/Investigacion_Completa_DES_y_EAE.pdf
+          git diff --cached --quiet || git commit -m "Publicar PDF combinado actualizado"
+          git push
